@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\semanuraki\hazırlık-1504\hazırlık-1504\bin\Debug\hazırlık-1504.exe.config
+C:\Users\User\Desktop\semanuraki\hazırlık-1504\hazırlık-1504\bin\Debug\hazırlık-1504.exe
+C:\Users\User\Desktop\semanuraki\hazırlık-1504\hazırlık-1504\bin\Debug\hazırlık-1504.pdb
+C:\Users\User\Desktop\semanuraki\hazırlık-1504\hazırlık-1504\obj\Debug\hazırlık-1504.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\semanuraki\hazırlık-1504\hazırlık-1504\obj\Debug\hazırlık_1504.Form1.resources
+C:\Users\User\Desktop\semanuraki\hazırlık-1504\hazırlık-1504\obj\Debug\hazırlık_1504.Properties.Resources.resources
+C:\Users\User\Desktop\semanuraki\hazırlık-1504\hazırlık-1504\obj\Debug\hazırlık-1504.csproj.GenerateResource.cache
+C:\Users\User\Desktop\semanuraki\hazırlık-1504\hazırlık-1504\obj\Debug\hazırlık-1504.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\semanuraki\hazırlık-1504\hazırlık-1504\obj\Debug\hazırlık-1504.exe
+C:\Users\User\Desktop\semanuraki\hazırlık-1504\hazırlık-1504\obj\Debug\hazırlık-1504.pdb
